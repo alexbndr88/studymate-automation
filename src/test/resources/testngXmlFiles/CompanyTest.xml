@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Company Test">
+    <test name="Company Test">
+        <classes>
+            <class name="tests.CompanyTest">
+                <methods>
+                    <include name="testSignInToTariff">
+                    </include>
+                </methods>
+            </class>
+            <class name="tests.CompanyTest">
+                <methods>
+                    <include name="createCompanyTest">
+
+                    </include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
