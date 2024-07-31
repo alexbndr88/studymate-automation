@@ -1,4 +1,4 @@
-# studymate-automation
+# SupplySync-automation
 ## Overview
 
 Welcome to the SupplySync Automation project! This repository contains automated tests for the SupplySync website ([SupplySync](https://supplysync.us/login)). The purpose of this project is to ensure the quality and reliability of the web application through extensive automated testing. We utilize JUnit, TestNG, and Cucumber frameworks, and we log the testing processes to facilitate debugging and provide insights into test execution.
