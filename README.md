@@ -11,8 +11,8 @@ Welcome to the SupplySync Automation project! This repository contains automated
 - **pom.xml**: Maven configuration file for managing dependencies and build configuration.
 - **logs/**: Directory where log files are stored.
 ## Our Team
-Ais - Companies 
-Aigul - Branches 
-Oles - Tariff
-Nur - Login functionality
-Vadym - Master functionality
+Ais - Companies ,
+Aigul - Branches ,
+Oles - Tariff,
+Nur - Login functionality,
+Vadym - Master functionality.
